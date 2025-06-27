@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(29, 26, 26);
+}
+#form{
+    width: 20rem;
+    height: 20rem;
+    background-color: white;
+    text-align: center;
+
+}
+#form button{
+    background-color: rgb(197, 41, 41,0.923);
+    color: white;
+    border :none;
+    cursor: pointer;
+    width: 50px;
+
+}
