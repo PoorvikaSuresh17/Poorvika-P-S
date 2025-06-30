@@ -1,1 +1,0 @@
-# Poorvika-P-S
